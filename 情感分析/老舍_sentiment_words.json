@@ -1,0 +1,21 @@
+{
+  "neutral:我": 123,
+  "neutral:他": 27,
+  "neutral:了": 93,
+  "neutral:的": 194,
+  "neutral:有": 54,
+  "negative:坏": 1,
+  "positive:爱": 5,
+  "positive:好": 45,
+  "neutral:是": 87,
+  "neutral:在": 38,
+  "negative:丑": 1,
+  "neutral:这": 70,
+  "neutral:那": 23,
+  "neutral:和": 9,
+  "positive:笑": 2,
+  "positive:美": 4,
+  "neutral:她": 6,
+  "neutral:它": 4,
+  "negative:哭": 1
+}

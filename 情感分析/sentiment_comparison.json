@@ -1,0 +1,18 @@
+{
+  "lao_she": {
+    "average_sentiment": 0.5556643580507846,
+    "sentiment_distribution": {
+      "positive": 478,
+      "negative": 316,
+      "neutral": 206
+    }
+  },
+  "wang_zengqi": {
+    "average_sentiment": 0.5301712955299918,
+    "sentiment_distribution": {
+      "positive": 410,
+      "negative": 322,
+      "neutral": 268
+    }
+  }
+}
